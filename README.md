@@ -1,6 +1,6 @@
 # Speech-Enahncement
 
 
-It will be two .m files one is wiener filter and another one is spectral subtraction. 
+It will be one MATLAB code files where you can switch between wiener filter and spectral subtraction. 
 
-In each matlab file, we consider the effect window, please take care of the comments.
+
